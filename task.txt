@@ -1,1 +1,2 @@
-﻿print('This is VCS task - merge task )
+to perform merge task on task.txt 
+
