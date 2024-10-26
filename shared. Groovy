@@ -1,4 +1,4 @@
 #!/usr/bin/env groovy
-def call(string name = 'docker-url'){
-  echo "hello, {name}."
+def call(String name = 'human'){
+  echo "hello, ${name}."
 }
